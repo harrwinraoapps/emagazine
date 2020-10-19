@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on e-Magazine</title>
-    <link>https://example.com/tags/</link>
+    <link>https://harrwinraoapps.github.io/emagazine/tags/</link>
     <description>Recent content in Tags on e-Magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://harrwinraoapps.github.io/emagazine/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Young Adults</title>
-      <link>https://example.com/tags/young-adults/</link>
+      <link>https://harrwinraoapps.github.io/emagazine/tags/young-adults/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/young-adults/</guid>
+      <guid>https://harrwinraoapps.github.io/emagazine/tags/young-adults/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://example.com/tags/shortcodes/</link>
+      <link>https://harrwinraoapps.github.io/emagazine/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/shortcodes/</guid>
+      <guid>https://harrwinraoapps.github.io/emagazine/tags/shortcodes/</guid>
       <description></description>
     </item>
     
