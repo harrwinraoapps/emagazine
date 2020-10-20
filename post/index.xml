@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on e-Magazine</title>
-    <link>http://newsletter.ssbcbandarklang.org/post/</link>
+    <link>http://emagazine.ssbcbandarklang.org/post/</link>
     <description>Recent content in Posts on e-Magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://newsletter.ssbcbandarklang.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://emagazine.ssbcbandarklang.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Divine Lullaby</title>
-      <link>http://newsletter.ssbcbandarklang.org/p/the-divine-lullaby/</link>
+      <link>http://emagazine.ssbcbandarklang.org/p/the-divine-lullaby/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://newsletter.ssbcbandarklang.org/p/the-divine-lullaby/</guid>
+      <guid>http://emagazine.ssbcbandarklang.org/p/the-divine-lullaby/</guid>
       <description>&lt;p&gt;The story of Queen Madālasā is in Chapters 25-30 of the &lt;a class=&#34;link&#34; href=&#34;https://practicalphilosophy.org.au/extras/mada-lasa/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Mārkaṇḍeya Purāṇa&lt;/a&gt;. The Mārkaṇḍeya is one of the eighteen ‘great Purāṇas’ (Mahāpurāṇas) relating to Brahmā, said to have been narrated by the Riṛṣi Mārkaṇḍeya.&lt;/p&gt;
 &lt;p&gt;In this mythological tale, Queen Madālasā&amp;rsquo;s newborn child was named by the King. Upon hearing the name given by the King, the baby started to cry out loud. Madālasā sings this beautiful lullaby to pacify the child.&lt;/p&gt;</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Rich Content B</title>
-      <link>http://newsletter.ssbcbandarklang.org/p/rich-content-b/</link>
+      <link>http://emagazine.ssbcbandarklang.org/p/rich-content-b/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://newsletter.ssbcbandarklang.org/p/rich-content-b/</guid>
+      <guid>http://emagazine.ssbcbandarklang.org/p/rich-content-b/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>

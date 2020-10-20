@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on e-Magazine</title>
-    <link>http://newsletter.ssbcbandarklang.org/tags/</link>
+    <link>http://emagazine.ssbcbandarklang.org/tags/</link>
     <description>Recent content in Tags on e-Magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://newsletter.ssbcbandarklang.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://emagazine.ssbcbandarklang.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Young Adults</title>
-      <link>http://newsletter.ssbcbandarklang.org/tags/young-adults/</link>
+      <link>http://emagazine.ssbcbandarklang.org/tags/young-adults/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://newsletter.ssbcbandarklang.org/tags/young-adults/</guid>
+      <guid>http://emagazine.ssbcbandarklang.org/tags/young-adults/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://newsletter.ssbcbandarklang.org/tags/shortcodes/</link>
+      <link>http://emagazine.ssbcbandarklang.org/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://newsletter.ssbcbandarklang.org/tags/shortcodes/</guid>
+      <guid>http://emagazine.ssbcbandarklang.org/tags/shortcodes/</guid>
       <description></description>
     </item>
     
