@@ -12,7 +12,7 @@ tags = [
 +++
 
 This is my happy family. I love my family.
-<!--more-->
+
 ---
 
 ## Gallery
