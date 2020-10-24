@@ -3,7 +3,9 @@ author = "Harrwinrao"
 title = "The Divine Lullaby"
 date = "2020-10-18"
 description = "The story of Queen Madālasā's Lullaby holds a special place due to its deep meaning in explaining life's core truths in the form of a lullaby."
-image = "/img/young_adults/markandeya.jpg"
+slug = "the-divine-lullaby"
+image = "markandeya.jpg"
+comments = false
 tags = [
     "Young Adults",
 ]
