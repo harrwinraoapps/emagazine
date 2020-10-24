@@ -1,6 +1,6 @@
 # baseurl = "https://harrwinraoapps.github.io/emagazine"
 # baseurl = "https://example.com"
-baseurl = "http://newsletter.ssbcbandarklang.org/"
+baseurl = "http://emagazine.ssbcbandarklang.org/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 5
@@ -26,13 +26,13 @@ CanonifyURLs = true
     [params.sidebar]
         emoji = "🍥"
         avatar = "img/avatar.jpeg"
-        subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        subtitle = "Welcome to the Official Sathya Sai Baba Center of Bandar Klang e-Magazine."
         
     [params.article]
         math = false
         [params.article.license]
             enabled = true 
-            default = "SSBC Bandar Klang"
+            default = "Sathya Sai Baba Center of Bandar Klang"
             
     [params.comments]
         enabled = true

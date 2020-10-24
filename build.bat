@@ -4,7 +4,7 @@ set commitMessage="site rebuild: %today%"
 echo %commitMessage%
 echo "Removing the old website"
 pushd public
-git rm -rf *
+git rm -rf !(CNAME)
 popd
 
 echo "Building the website"

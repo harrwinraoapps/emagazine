@@ -4,7 +4,7 @@ title = "Rich Content B"
 date = "2019-03-10"
 description = "A brief description of Hugo Shortcodes"
 tags = [
-    "shortcodes",
+    "Sample",
 ]
 +++
 
