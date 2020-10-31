@@ -71,17 +71,23 @@ CanonifyURLs = true
         weight = -100
         pre = "home"
     [[menu.main]]
-        identifier = "about-cn"
-        name = "About"
-        url = "about"
-        weight = -90
-        pre = "user"
-    [[menu.main]]
         identifier = "archives"
         name = "Archives"
         url = "archives"
-        weight = -70
+        weight = -90
         pre = "archives"
+    [[menu.main]]
+        identifier = "about-us"
+        name = "About"
+        url = "about"
+        weight = -70
+        pre = "user"
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "contact"
+        weight = -40
+        pre = "contact"
 
 [related]
     includeNewer = true

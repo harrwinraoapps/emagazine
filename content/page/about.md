@@ -1,25 +1,27 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Learn more about the the eMagazine initiative and the foreword for the site."
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-license = "CC BY-NC-ND"
-lastmod = "2020-10-09"
+aliases = ["about-us"]
+author = "Sathya Sai Baba Centre of Bandar Klang"
+lastmod = "2020-10-29"
+comments = false
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+The Sathya Sai Baba Center of Bndar Klang e-Magazine initiative is an started as a humble dedication for Sri Sathya Sai Baba's 95th Birthday Celebrations. The e-Magazine garners a collection of articles and content from the various wings of the center as well as articles from Balvikas children.
 
-Hugo makes use of a variety of open source projects including:
+Articles posted are assigned using various tags:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* #Nursery
+* #Group 1
+* #Group 2
+* #Group 3
+* #Group 4
+* #EHV
+* #Ladies
+* #Young Adults
+* #Service
+* #Spiritual
+* #Gurus
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+All center devotees, gurus and Balvikas students are welcomed to submit the articles throughout the year via our eMagazine Content Submission Form.
