@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://emagazine.ssbcbandarklang.org/p/divine-grace/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://emagazine.ssbcbandarklang.org/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://emagazine.ssbcbandarklang.org/tags/ladies/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://emagazine.ssbcbandarklang.org/post/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://emagazine.ssbcbandarklang.org/tags/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,16 +34,6 @@
   
   <url>
     <loc>http://emagazine.ssbcbandarklang.org/tags/nursery/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://emagazine.ssbcbandarklang.org/post/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://emagazine.ssbcbandarklang.org/tags/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
   
