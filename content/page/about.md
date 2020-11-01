@@ -8,9 +8,9 @@ lastmod = "2020-10-29"
 comments = false
 +++
 
-The Sathya Sai Baba Center of Bndar Klang e-Magazine initiative is an started as a humble dedication for Sri Sathya Sai Baba's 95th Birthday Celebrations. The e-Magazine garners a collection of articles and content from the various wings of the center as well as articles from Balvikas children.
+The Sathya Sai Baba Center of Bandar Klang e-Magazine initiative is an started as a humble dedication for Sri Sathya Sai Baba's 95th Birthday Celebrations. The e-Magazine garners a collection of articles and content from the various wings of the center as well as articles from Balvikas children.
 
-Articles posted are assigned using various tags:
+Articles posted are assigned using the various tags:
 
 * #Nursery
 * #Group 1

@@ -6,15 +6,18 @@ description = "The story of Queen Madālasā's Lullaby holds a special place due
 slug = "the-divine-lullaby"
 image = "markandeya.jpg"
 comments = false
+draft = false
 tags = [
     "Young Adults",
 ]
 +++
 
+---
+
 The story of Queen Madālasā is in Chapters 25-30 of the [Mārkaṇḍeya Purāṇa](https://practicalphilosophy.org.au/extras/mada-lasa/). The Mārkaṇḍeya is one of the eighteen ‘great Purāṇas’ (Mahāpurāṇas) relating to Brahmā, said to have been narrated by the Riṛṣi Mārkaṇḍeya.
 
 In this mythological tale, Queen Madālasā's newborn child was named by the King. Upon hearing the name given by the King, the baby started to cry out loud. Madālasā sings this beautiful lullaby to pacify the child.
-<!--more-->
+
 ---
 
 ## The Divine Lullaby

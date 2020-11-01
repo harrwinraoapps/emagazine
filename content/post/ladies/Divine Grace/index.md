@@ -3,8 +3,8 @@ author = "Chitra Menon"
 title = "Divine Grace"
 date = "2020-10-24"
 description = "Gita Samarpanam is a group born out of the vision and initiation of Aunty Jegadeva to recite the verses of Chapter 12 on Bhakti yoga or Path of Devotion from the most revered holy book Bhagavad Gita"
-image = "divine_grace.jpg"
 slug = "divine-grace"
+image = "divine_grace.jpg"
 comments = false
 draft = true
 tags = [
@@ -12,6 +12,7 @@ tags = [
 ]
 +++
 
+---
 
 Gita Samarpanam is a group born out of the vision and initiation of Aunty Jegadeva to recite the verses of Chapter 12 on Bhakti yoga or Path of Devotion from the most revered holy book Bhagavad Gita. It is to be an offering on Ladies Day to Bhagawan for this year 2020. 
 
