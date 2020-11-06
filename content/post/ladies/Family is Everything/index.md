@@ -6,6 +6,7 @@ description = "An article pertaining to my experiences during Covid - how I used
 slug = "family-is-everything"
 image = "img2.jpeg"
 comments = false
+draft = true
 tags = [
     "Ladies",
 ]

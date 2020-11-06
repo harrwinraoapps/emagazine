@@ -6,6 +6,7 @@ description = "Baba's reason for choosing Puttaparthi"
 slug = "baba-and-parthi"
 image = "puttaparthi.jpg"
 comments = false
+draft = true
 tags = [
     "Balvikas / EHV Gurus",
 ]

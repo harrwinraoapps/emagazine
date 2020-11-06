@@ -5,6 +5,7 @@ date = "2020-10-23"
 description = "The joy of singing the name of the Lord."
 slug = "love-for-swami"
 comments = false
+draft = true
 tags = [
     "Group 3",
 ]

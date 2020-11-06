@@ -5,6 +5,7 @@ date = "2020-10-23"
 description = "Sairam, my name is Vainavi and I am 13 years old. The title of my song is Manasa Bhajorey Guru Charanam."
 slug = "my-bhajan"
 comments = false
+draft = true
 tags = [
     "Group 3",
 ]

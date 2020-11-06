@@ -6,6 +6,7 @@ description = "Why doing service is important to you? How does the seva improve 
 slug = "service-of-love"
 image = "service_of_love_4.jpg"
 comments = false
+draft = true
 tags = [
     "Ladies",
 ]
