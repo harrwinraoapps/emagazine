@@ -6,7 +6,6 @@ description = "The story of Queen Madālasā's Lullaby holds a special place due
 slug = "the-divine-lullaby"
 image = "markandeya.jpg"
 comments = false
-draft = false
 tags = [
     "Young Adults",
 ]
