@@ -3,13 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://emagazine.ssbcbandarklang.org/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>http://emagazine.ssbcbandarklang.org/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://emagazine.ssbcbandarklang.org/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+    <loc>http://emagazine.ssbcbandarklang.org/post/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://emagazine.ssbcbandarklang.org/tags/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://emagazine.ssbcbandarklang.org/p/the-divine-lullaby/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://emagazine.ssbcbandarklang.org/tags/young-adults/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://emagazine.ssbcbandarklang.org/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,19 +48,7 @@
   </url>
   
   <url>
-    <loc>http://emagazine.ssbcbandarklang.org/p/</loc>
-  </url>
-  
-  <url>
     <loc>http://emagazine.ssbcbandarklang.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://emagazine.ssbcbandarklang.org/post/</loc>
-  </url>
-  
-  <url>
-    <loc>http://emagazine.ssbcbandarklang.org/tags/</loc>
   </url>
   
 </urlset>
