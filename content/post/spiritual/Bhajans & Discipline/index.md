@@ -18,9 +18,15 @@ Sai bhajans is a group sadhana as it is not only the lead singer who is involved
 
 Swami has a beautiful way of playing with words. Once during a Trayee session with the students, Swami said:
 
-> "If you want to be called a boy; you should have behaviour; If you want to be called a man; you should have manners; And if you want to be called a devotee; you should have DISCIPLINE."
+```
+{{< quote >}}
+"If you want to be called a boy; you should have behaviour; 
+If you want to be called a man; you should have manners; 
+And if you want to be called a devotee; you should have <span style="font-weight:bold;">DISCIPLINE</span">."
+{{< /quote >}}
+```
 
-Interestingly, Swami does not say to be a devotee we need devotion. He said discipline defines a Sai devotee. Swami has said that devotion is like a river. So long it flows between 2 banks referred to as Duty and Devotion, it will reach the ocean. However, the moment this river of devotion breaches these 2 banks, the same river becomes Destruction. The following are some of the points that come to my mind based on the various talks and sharing sessions from Swami’s students who are Prasanthi Mandir Bhajan singers on the aspects of discipline that are important for a Sai Bhajan singer. 
+Interestingly, Swami does not say to be a devotee we need devotion. He said discipline defines a Sai devotee. Swami has said that devotion is like a river. So long it flows between 2 banks referred to as **Duty** and **Devotion**, it will reach the ocean. However, the moment this river of devotion breaches these 2 banks, the same river becomes Destruction. The following are some of the points that come to my mind based on the various talks and sharing sessions from Swami’s students who are Prasanthi Mandir Bhajan singers on the aspects of discipline that are important for a Sai Bhajan singer. 
 
 1. Sing and participate during every bhajan in a bhajan session. 
     * A lead singer and every chorus singer should participate (sing and clap) fully in every bhajan during a bhajan session. The lead singer should not only sing their bhajan and then not sing during the other bhajans sung in the session. 
@@ -40,7 +46,13 @@ Interestingly, Swami does not say to be a devotee we need devotion. He said disc
 6. Self- study and self-audit about bhajan singing.
     * All bhajan singers should spend time and take the effort to read and listen to various materials regarding bhajans. We should listen to discourses from Swami regarding bhajans, listen to talks and satsanghs by the members of the Prasanthi Bhajan Group. This will help in improving the technical and devotional aspect of singing bhajans. Lastly, self-audit is also an extremely important aspect for bhajan singers. All bhajan singers, especially lead bhajan singers should have the humility to reflect on areas of improvement and work on bettering ourselves to ensure we are able to offer our best to Swami through bhajans. 
 
-> Devotional singing (bhajan) must become an unbroken stream of bliss on your tongues and in your hearts; it must confer on you the uninterrupted awareness of soham, of the unity of I and He.  (Sathya Sai Speaks IX, 41-42)
+```
+{{< quote >}}
+"Devotional singing (bhajan) must become an unbroken stream of bliss on your tongues and in your hearts; 
+It must confer on you the uninterrupted awareness of soham, of the unity of I and He. 
+<span style="font-weight:bold;">(Sathya Sai Speaks IX, 41-42)<span style="font-weight:bold;">."
+{{< /quote >}}
+```
 
 ---
 
