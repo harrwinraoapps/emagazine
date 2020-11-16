@@ -1,10 +1,11 @@
 +++
 author = "Thareni Thirunakarsu"
-title = "Bhajan"
+title = "Bhajan Explained"
 date = "2020-10-18"
 description = "This song is a very meaningful and melodious Bhajan."
 slug = "bhajan-song"
 comments = false
+draft = true
 tags = [
     "Group 4",
 ]

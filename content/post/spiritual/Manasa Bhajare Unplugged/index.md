@@ -5,6 +5,7 @@ date = "2020-10-24"
 description = "A humble offering at His Divine lotus feet of an unplugged version of the bhajan - Manasa Bhajare."
 slug = "manasa-bhajare-unplugged"
 comments = false
+draft = true
 tags = [
     "Spiritual",
 ]

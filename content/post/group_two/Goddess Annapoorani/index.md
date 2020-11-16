@@ -5,6 +5,7 @@ date = "2020-10-24"
 description = "This is the story of Goddess Annapoorani."
 slug = "goddess-annapoorani"
 comments = false
+draft = true
 tags = [
     "Group 2",
 ]

@@ -6,6 +6,7 @@ description = "Fulfilling responsibility towards Mother Nature"
 slug = "save-ocean"
 image = "img_sai_varshann_1.jpg"
 comments = false
+draft = true
 tags = [
     "Group 1",
 ]
