@@ -6,6 +6,7 @@ description = "'Why fear when I am here' is a famous quote from our beloved Bhag
 slug = "quote"
 image = "img_shashmeetha_chandran_1.jpg"
 comments = false
+draft = true
 tags = [
     "Group 3",
 ]

@@ -6,6 +6,7 @@ description = "Innner significance of the Gayatri mantra."
 slug = "gayatri_mantra"
 image = "img_ambekadevi_rajathurai_1.jpg"
 comments = false
+draft = true
 tags = [
     "Ladies",
 ]

@@ -6,6 +6,7 @@ description = "To describe my love towards Baba birthday and to expand my creati
 slug = "clay-art"
 image = "img_santhossh_nagarajah_2.jpg"
 comments = false
+draft = true
 tags = [
     "Group 2",
 ]

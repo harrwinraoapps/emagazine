@@ -5,6 +5,7 @@ date = "2020-10-18"
 description = "The moments which I cherish the most in Parthi."
 slug = "my-parthi-experience"
 comments = false
+draft = true
 tags = [
     "Spiritual",
 ]
