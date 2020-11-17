@@ -5,6 +5,7 @@ date = "2020-10-18"
 description = "The value of love is very important to me because I feel that without love, there will be no light and the world will be dark and full of negativity."
 slug = "love"
 comments = false
+draft = true
 tags = [
     "Group 3",
 ]
