@@ -5,6 +5,7 @@ date = "2020-10-23"
 description = "A friend in need is a friend indeed."
 slug = "friends-bear"
 comments = false
+draft = true
 tags = [
     "Group 2",
 ]

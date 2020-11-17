@@ -5,6 +5,7 @@ date = "2020-10-18"
 description = "A journey or mine that took various combinations of dedication and devotion from all known or unknown. The karmic baggage with grace drives from the intense selfless prayers for someone in need."
 slug = "divine-will"
 comments = false
+draft = true
 tags = [
     "Service",
 ]

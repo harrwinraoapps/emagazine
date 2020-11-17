@@ -5,6 +5,7 @@ date = "2020-10-23"
 description = "This is a story of friendship and forgiveness."
 slug = "best-friend"
 comments = false
+draft = true
 tags = [
     "Group 2",
 ]

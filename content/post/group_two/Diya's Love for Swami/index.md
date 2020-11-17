@@ -5,6 +5,7 @@ date = "2020-10-23"
 description = "This is a short story of a girl called Diya and her profound love for Swami and His lovely message to her."
 slug = "diyas-love"
 comments = false
+draft = true
 tags = [
     "Group 2",
 ]

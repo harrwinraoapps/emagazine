@@ -6,6 +6,7 @@ description = "My describe on Baba's love on his birthday and to expand my creat
 slug = "hv-drawing"
 image = "img_hemmaraj_hiran_1.JPG"
 comments = false
+draft = true
 tags = [
     "Group 2",
 ]
