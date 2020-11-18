@@ -5,6 +5,7 @@ date = "2020-10-18"
 description = "My insights on the importance and components of discipline as a Sai bhajan singer."
 slug = "bhajans-and-discipline"
 comments = false
+draft = true
 tags = [
     "Spiritual",
 ]
@@ -21,7 +22,7 @@ Swami has a beautiful way of playing with words. Once during a Trayee session wi
 {{< quote >}}
 <p>"If you want to be called a boy; you should have behaviour; <br />
 If you want to be called a man; you should have manners; <br />
-And if you want to be called a devotee; you should have <span style="font-weight:bold;">DISCIPLINE</span">."</p>
+And if you want to be called a devotee; you should have <span style="font-weight:bold;">DISCIPLINE</span>."</p>
 {{< /quote >}}
 
 Interestingly, Swami does not say to be a devotee we need devotion. He said discipline defines a Sai devotee. Swami has said that devotion is like a river. So long it flows between 2 banks referred to as **Duty** and **Devotion**, it will reach the ocean. However, the moment this river of devotion breaches these 2 banks, the same river becomes Destruction. The following are some of the points that come to my mind based on the various talks and sharing sessions from Swami’s students who are Prasanthi Mandir Bhajan singers on the aspects of discipline that are important for a Sai Bhajan singer. 

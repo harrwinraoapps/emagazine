@@ -11,7 +11,7 @@ tags = [
     "Group 3",
 ]
 +++
-
+ 
 ![](quote.jpg)
 
 ---

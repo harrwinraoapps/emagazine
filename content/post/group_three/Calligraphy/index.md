@@ -6,6 +6,7 @@ description = "The artwork which displays my love towards Bhagavan from the bott
 slug = "calligraphy-painting"
 image = "img_darsina_nagarajah_1.jpg"
 comments = false
+draft = true
 tags = [
     "Group 3",
 ]
