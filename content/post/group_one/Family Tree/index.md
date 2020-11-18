@@ -5,6 +5,7 @@ date = "2020-10-23"
 description = "Family tree"
 slug = "family-tree"
 comments = false
+draft = true
 tags = [
     "Group 1",
 ]

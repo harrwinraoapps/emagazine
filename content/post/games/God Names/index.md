@@ -5,6 +5,7 @@ date = "2020-10-23"
 description = "Crossword Puzzle"
 slug = "god-names"
 comments = false
+draft = true
 tags = [
     "Games",
 ]

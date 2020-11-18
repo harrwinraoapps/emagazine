@@ -5,6 +5,7 @@ date = "2020-10-23"
 description = "Singing Bhajan over Smule"
 slug = "jai-durga"
 comments = false
+draft = true
 tags = [
     "Group 1",
 ]

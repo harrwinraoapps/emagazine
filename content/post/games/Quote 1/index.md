@@ -5,6 +5,7 @@ date = "2020-10-23"
 description = "Unscramble Puzzle"
 slug = "solve-these-quotes"
 comments = false
+draft = true
 tags = [
     "Games",
 ]
