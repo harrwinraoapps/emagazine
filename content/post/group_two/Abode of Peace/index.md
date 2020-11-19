@@ -6,6 +6,7 @@ description = "My experience at Prashanti Nilayam in 2019."
 slug = "abode-of-peace"
 comments = false
 image = "img_shreya_eshani_1.jpeg"
+draft = true
 tags = [
     "Group 2",
 ]

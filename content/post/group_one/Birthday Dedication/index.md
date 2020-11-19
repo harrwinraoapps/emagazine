@@ -6,6 +6,7 @@ description = "Specially designed birthday card for Swami"
 slug = "birthday-dedication"
 image = "img_shamitha_jayamaran_2.jpg"
 comments = false
+draft = true
 tags = [
     "Group 1",
 ]

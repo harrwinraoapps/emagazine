@@ -6,6 +6,7 @@ description = "An art and craft dedication to Swami"
 slug = "quotes-bookmark"
 image = "img_sasmietha_anbarasan_3.jpg"
 comments = false
+draft = true
 tags = [
     "Group 2",
 ]

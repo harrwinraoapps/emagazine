@@ -6,6 +6,7 @@ description = "5 Values to Success"
 slug = "values-success"
 image = "img_gaurishan_mahendren_1.jpg"
 comments = false
+draft = true
 tags = [
     "Group 2",
 ]
