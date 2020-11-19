@@ -13,7 +13,7 @@ tags = [
 
 ---
 
-## Bhajan - Om Sahana Vavatu Mantra
+## Mantra - Om Sahana Vavatu Mantra
 
 {{< youtube VVA7vUjqaTs >}}
 
