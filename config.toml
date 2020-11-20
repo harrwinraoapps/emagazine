@@ -1,6 +1,6 @@
 # baseurl = "https://harrwinraoapps.github.io/emagazine"
 # baseurl = "https://example.com"
-baseurl = "http://emagazine.ssbcbandarklang.org/"
+baseurl = "https://emagazine.ssbcbandarklang.org/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 5
