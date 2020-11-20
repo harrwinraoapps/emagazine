@@ -5,6 +5,7 @@ date = "2020-10-24"
 description = "An offering to Swami"
 slug = "blessings-from-baba"
 comments = false
+draft = true
 tags = [
     "Group 1",
 ]

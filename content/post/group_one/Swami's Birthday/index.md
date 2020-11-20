@@ -6,6 +6,7 @@ description = "Dedication for swami on his birthday. I feel so blessed when sing
 slug = "swami-birthday"
 image = "img_shujitraa_jegan_2.jpeg"
 comments = false
+draft = true
 tags = [
     "Group 1",
 ]
