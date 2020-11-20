@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nursery on e-Magazine</title>
+    <title>Nursery on The Awakening</title>
     <link>https://emagazine.ssbcbandarklang.org/tags/nursery/</link>
-    <description>Recent content in Nursery on e-Magazine</description>
+    <description>Recent content in Nursery on The Awakening</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://emagazine.ssbcbandarklang.org/tags/nursery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baba and Baby</title>
+      <link>https://emagazine.ssbcbandarklang.org/p/baba-and-baby/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emagazine.ssbcbandarklang.org/p/baba-and-baby/</guid>
+      <description> Gallery  
+ </description>
+    </item>
+    
+    <item>
+      <title>Birthday Wishes for Swami</title>
+      <link>https://emagazine.ssbcbandarklang.org/p/wish-for-swami/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emagazine.ssbcbandarklang.org/p/wish-for-swami/</guid>
+      <description> Birthday Card  Making of Birthday Card  Gallery 
+ </description>
+    </item>
+    
+    <item>
+      <title>Finger Family Song</title>
+      <link>https://emagazine.ssbcbandarklang.org/p/song-finger-family/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emagazine.ssbcbandarklang.org/p/song-finger-family/</guid>
+      <description> Finger Family Song  </description>
+    </item>
+    
     <item>
       <title>Happy Birthday Baba</title>
       <link>https://emagazine.ssbcbandarklang.org/p/birthday-card-for-baba/</link>
@@ -18,6 +47,16 @@
     </item>
     
     <item>
+      <title>Happy Birthday Baba</title>
+      <link>https://emagazine.ssbcbandarklang.org/p/happy-birthday-baba/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emagazine.ssbcbandarklang.org/p/happy-birthday-baba/</guid>
+      <description> Gallery  
+ </description>
+    </item>
+    
+    <item>
       <title>Happy Birthday Swami</title>
       <link>https://emagazine.ssbcbandarklang.org/p/drawing-for-swami-1/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
@@ -25,6 +64,15 @@
       <guid>https://emagazine.ssbcbandarklang.org/p/drawing-for-swami-1/</guid>
       <description> Gallery  
  </description>
+    </item>
+    
+    <item>
+      <title>Sai Ram Song and Manthras</title>
+      <link>https://emagazine.ssbcbandarklang.org/p/song-manthras/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emagazine.ssbcbandarklang.org/p/song-manthras/</guid>
+      <description> Song and Mantra  </description>
     </item>
     
   </channel>

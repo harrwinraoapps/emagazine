@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on e-Magazine</title>
+    <title>Pages on The Awakening</title>
     <link>https://emagazine.ssbcbandarklang.org/page/</link>
-    <description>Recent content in Pages on e-Magazine</description>
+    <description>Recent content in Pages on The Awakening</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://emagazine.ssbcbandarklang.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://emagazine.ssbcbandarklang.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://emagazine.ssbcbandarklang.org/about/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emagazine.ssbcbandarklang.org/about/</guid>
+      <description>Foreword Dear Reader,
+Greetings to you!!
+We are pleased to present to you the 1st edition of the SSBCBK eMagazine : The Awakening. Enjoy every moment reading it because in life there aren’t rewinds, only flashbacks. We have for you, from various age groups, a wide range of poems, bhajans, drawings, paintings, and some informative and inspirational articles. We are proud to say that The Awakening features articles by enthusiastic writers accompanied by great photos, videos and illustrations on a variety of subjects of interest on Swami’s teachings.</description>
+    </item>
+    
     <item>
       <title>Archives</title>
       <link>https://emagazine.ssbcbandarklang.org/archives/</link>
@@ -14,17 +25,6 @@
       
       <guid>https://emagazine.ssbcbandarklang.org/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://emagazine.ssbcbandarklang.org/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://emagazine.ssbcbandarklang.org/about/</guid>
-      <description>Foreword Dear Reader,
-Greetings to you!!
-We are pleased to present to you the 1st edition of the SSBCBK eMagazine. Enjoy every moment reading it because in life there aren’t rewinds, only flashbacks. We have for you, from various age groups, a wide range of poems, bhajans, drawings, paintings, and some informative and inspirational articles. We are proud to say that this eMagazine features articles by enthusiastic writers accompanied by great photos, videos and illustrations on a variety of subjects of interest on Swami’s teachings.</description>
     </item>
     
     <item>
