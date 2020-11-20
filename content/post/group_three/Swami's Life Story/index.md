@@ -5,7 +5,7 @@ date = "2020-10-18"
 description = "The article is about our beloved Sathya Sai Baba's life story."
 slug = "swami-life-story"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 3",
 ]

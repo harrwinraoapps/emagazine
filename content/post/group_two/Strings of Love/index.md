@@ -5,7 +5,7 @@ date = "2020-10-23"
 description = "A gift to Swami on His 95th year of advent from Sai Hridayaviharine Mohanram by playing ukulele."
 slug = "strings-of-love"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 2",
 ]

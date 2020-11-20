@@ -6,7 +6,7 @@ description = "To describe my love towards Baba on his birthday and to expand my
 slug = "birthday-card"
 image = "img_tivyssha_sai_1.jpeg"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 2",
 ]

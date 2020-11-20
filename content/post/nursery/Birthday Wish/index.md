@@ -6,7 +6,7 @@ description = "A wish to Baba on His 95th birthday"
 slug = "wish-for-swami"
 comments = false
 image = "img_himmanika_1.jpeg"
-draft = true
+# draft = true
 tags = [
     "Nursery",
 ]

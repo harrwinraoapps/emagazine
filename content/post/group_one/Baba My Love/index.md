@@ -6,7 +6,7 @@ description = "A simple gift box for my dearest Baba, My Love"
 slug = "baba-my-love"
 image = "img_shivendraa_surendran_1.jpeg"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 1",
 ]

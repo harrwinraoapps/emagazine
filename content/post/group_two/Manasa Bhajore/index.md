@@ -5,7 +5,7 @@ date = "2020-10-18"
 description = "Manasa Bhajore Guru Charanam"
 slug = "manasa-bhajore"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 2",
 ]

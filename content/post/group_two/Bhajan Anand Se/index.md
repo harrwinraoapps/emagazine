@@ -5,7 +5,7 @@ date = "2020-10-18"
 description = "To show my love towards Baba on His birthday and to expand my love through singing a nice bhajan."
 slug = "bhajan-for-swami"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 2",
 ]

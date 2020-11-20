@@ -5,7 +5,7 @@ date = "2020-10-18"
 description = "This song is a very meaningful and melodious Bhajan."
 slug = "bhajan-song"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 4",
 ]

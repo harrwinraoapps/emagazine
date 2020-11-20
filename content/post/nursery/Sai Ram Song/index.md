@@ -5,7 +5,7 @@ date = "2020-10-18"
 description = "Expressing love through a song and manthras"
 slug = "song-manthras"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Nursery",
 ]

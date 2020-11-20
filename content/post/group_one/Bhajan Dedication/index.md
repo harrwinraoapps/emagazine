@@ -5,7 +5,7 @@ date = "2020-10-18"
 description = "I specially dedicate this bhajan 'Jai Jai Bhavani Ma' to my beloved Swami."
 slug = "bhajan-dedication"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 1",
 ]

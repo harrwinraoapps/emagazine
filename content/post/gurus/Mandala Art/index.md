@@ -6,7 +6,7 @@ description = "Mandala Art with a concept of love."
 slug = "mandala-art"
 image = "img_shamani_nadaraja_1.jpg"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Balvikas / EHV Gurus",
 ]

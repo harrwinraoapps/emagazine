@@ -6,7 +6,7 @@ description = "A simple artwork on Swami’s Family Tree"
 slug = "swamis-family"
 image = "img_dhanieya_gunasegaran_1.jpg"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 2",
 ]

@@ -5,7 +5,7 @@ date = "2020-10-23"
 description = "I specially dedicate this bhajan 'Jai Jai Manamohana' to my beloved Swami. Happy Birthday Swami"
 slug = "jai-jai"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 2",
 ]

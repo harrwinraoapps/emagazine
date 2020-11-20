@@ -6,7 +6,7 @@ description = "Gita Samarpanam is a group born out of the vision and initiation 
 slug = "divine-grace"
 image = "divine_grace.jpg"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Ladies",
 ]

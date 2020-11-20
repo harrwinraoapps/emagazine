@@ -6,7 +6,7 @@ description = "I show my love to swami by doing a greeting card. Baba Birthday i
 slug = "greeting-card"
 image = "img_sashviikaa_suresh_1.jpeg"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 1",
 ]

@@ -25,7 +25,7 @@ CanonifyURLs = true
         
     [params.sidebar]
         emoji = "🍥"
-        avatar = "img/avatar2.png"
+        avatar = "img/avatar3.png"
         subtitle = "Welcome to the Official Sathya Sai Baba Center of Bandar Klang e-Magazine"
         
     [params.article]
@@ -50,7 +50,7 @@ CanonifyURLs = true
             ### Archives page relative URL
             path = "archives"       
         [params.widgets.tagCloud]
-            limit = 10
+            limit = 20
             
     [params.opengraph]
         [params.opengraph.twitter]
