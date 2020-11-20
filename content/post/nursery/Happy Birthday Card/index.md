@@ -6,6 +6,7 @@ description = "Thank you Swami and Happy Birthday to you"
 slug = "happy-birthday-baba"
 image = "img_aadheera_1.jpeg"
 comments = false
+draft = true
 tags = [
     "Nursery",
 ]

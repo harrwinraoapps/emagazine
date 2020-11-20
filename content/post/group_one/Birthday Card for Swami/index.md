@@ -6,6 +6,7 @@ description = "To describe my love towards Baba on his birthday"
 slug = "birthday-card-swami"
 image = "img_saai_harieedraa_2.jpeg"
 comments = false
+draft = true
 tags = [
     "Group 1",
 ]

@@ -6,6 +6,7 @@ description = "A Gratitude Artwork"
 slug = "nature-is-god"
 image = "img_shriti_surendran_kumar_1.jpg"
 comments = false
+draft = true
 tags = [
     "Group 4",
 ]

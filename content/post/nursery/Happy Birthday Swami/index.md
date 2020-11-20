@@ -6,6 +6,7 @@ description = "A drawing to wish Swami, a Happy Birthday"
 slug = "drawing-for-swami-1"
 image = "img_keishav_shanmugam_1.jpeg"
 comments = false
+draft = true
 tags = [
     "Nursery",
 ]
