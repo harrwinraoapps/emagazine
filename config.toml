@@ -4,7 +4,7 @@ baseurl = "https://emagazine.ssbcbandarklang.org/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 5
-title = "e-Magazine"
+title = "The Awakening"
 disqusShortname = "hugo-theme-stack"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "en"                   # Theme i18n support
 RelativeURLs = true
@@ -26,7 +26,7 @@ CanonifyURLs = true
     [params.sidebar]
         emoji = "🍥"
         avatar = "img/avatar2.png"
-        subtitle = "Welcome to the Official Sathya Sai Baba Center of Bandar Klang e-Magazine."
+        subtitle = "Welcome to the Official Sathya Sai Baba Center of Bandar Klang e-Magazine"
         
     [params.article]
         math = false
