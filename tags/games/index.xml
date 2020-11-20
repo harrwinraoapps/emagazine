@@ -1,47 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Games on e-Magazine</title>
-    <link>http://emagazine.ssbcbandarklang.org/tags/games/</link>
-    <description>Recent content in Games on e-Magazine</description>
+    <title>Games on The Awakening</title>
+    <link>https://emagazine.ssbcbandarklang.org/tags/games/</link>
+    <description>Recent content in Games on The Awakening</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://emagazine.ssbcbandarklang.org/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://emagazine.ssbcbandarklang.org/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Names of Gods and Sages</title>
-      <link>http://emagazine.ssbcbandarklang.org/p/god-names/</link>
+      <link>https://emagazine.ssbcbandarklang.org/p/god-names/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://emagazine.ssbcbandarklang.org/p/god-names/</guid>
+      <guid>https://emagazine.ssbcbandarklang.org/p/god-names/</guid>
       <description>Fill in the answers to the Clues.
 Crossword Puzzle Makerdiv.puzzle{margin:auto;display:flex;flex-direction:column;height:1000px;max-width:700px;} Retrieved from https://saispeaks.sathyasai.org/puzzles/ </description>
     </item>
     
     <item>
       <title>SAI Trivia Quiz</title>
-      <link>http://emagazine.ssbcbandarklang.org/p/trivia-quiz/</link>
+      <link>https://emagazine.ssbcbandarklang.org/p/trivia-quiz/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://emagazine.ssbcbandarklang.org/p/trivia-quiz/</guid>
+      <guid>https://emagazine.ssbcbandarklang.org/p/trivia-quiz/</guid>
       <description>div.quote{font-style: italic; text-align:center;margin-top: auto;margin-bottom: auto;margin-left: 2em;margin-right: 2em;}  </description>
     </item>
     
     <item>
       <title>Solve These Quotes</title>
-      <link>http://emagazine.ssbcbandarklang.org/p/solve-these-quotes/</link>
+      <link>https://emagazine.ssbcbandarklang.org/p/solve-these-quotes/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://emagazine.ssbcbandarklang.org/p/solve-these-quotes/</guid>
+      <guid>https://emagazine.ssbcbandarklang.org/p/solve-these-quotes/</guid>
       <description>Inside these jumbled words are contained priceless quotes that our Beloved Bhagawan has advised us to follow. Try to re-arrange the letters and words to find out the quotes. Remember, pace yourself and good luck!
 1    Quote Answer     VLOE LAL VESER LAL __________________       Source     Sathya Sai Speaks, Volume 27; Chapter 22    2    Quote Answer     ECRIESV OT AMN IS RECVIES TO OGD __________________       Source     The Eight Flowers That Please God (http://media.</description>
     </item>
     
     <item>
-      <title>Vedic Chants from Sai Kulwant Hall</title>
-      <link>http://emagazine.ssbcbandarklang.org/p/vedic-chants-from-sai-kulwant-hall/</link>
+      <title>Sunset Puzzle</title>
+      <link>https://emagazine.ssbcbandarklang.org/p/sunset-jigsaw/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://emagazine.ssbcbandarklang.org/p/vedic-chants-from-sai-kulwant-hall/</guid>
+      <guid>https://emagazine.ssbcbandarklang.org/p/sunset-jigsaw/</guid>
+      <description>Are you up for a challenge? Try solving this 100 piece sunset jigsaw puzzle as fast as you can.
+.jigsaw {margin: 10px auto 20px;display: block;}  </description>
+    </item>
+    
+    <item>
+      <title>Vedic Chants from Sai Kulwant Hall</title>
+      <link>https://emagazine.ssbcbandarklang.org/p/vedic-chants-from-sai-kulwant-hall/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emagazine.ssbcbandarklang.org/p/vedic-chants-from-sai-kulwant-hall/</guid>
       <description>Fill in the answers to the Clues.
 Crossword Puzzle Makerdiv.puzzle{margin:auto;display:flex;flex-direction:column;height:1000px;max-width:700px;}  </description>
     </item>
