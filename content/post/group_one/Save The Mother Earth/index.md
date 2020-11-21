@@ -23,6 +23,6 @@ My poster shown happy and unhappy mother earth. Our mother earth only one who hu
 
 ## Gallery
 
-{{< image id="img_piriyan_thiyagu.jpg" >}}
+![](img_piriyan_thiyagu.jpg) 
 
 ---

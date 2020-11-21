@@ -23,6 +23,6 @@ Swami always remind us that we have the solution to all the problems, if we foll
 
 ## Gallery
 
-{{< image id="img_sarvina_thiyagu.jpg" >}}
+![](img_sarvina_thiyagu.jpg) 
 
 ---

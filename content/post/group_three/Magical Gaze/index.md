@@ -13,7 +13,7 @@ tags = [
 
 ---
 
-{{< image id="img_magical_gaze_swami.jpg" >}}
+![](img_magical_gaze_swami.jpg) 
 
 <br>
 

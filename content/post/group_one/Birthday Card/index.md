@@ -21,6 +21,6 @@ tags = [
 
 ## Gallery
 
-{{< image id="img_manusshri_soori.jpeg" >}}
+![](img_manusshri_soori.jpeg) 
 
 ---
