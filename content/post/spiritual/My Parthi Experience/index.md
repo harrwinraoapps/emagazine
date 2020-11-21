@@ -4,6 +4,7 @@ title = "My Parthi Experience"
 date = "2020-10-18"
 description = "The moments which I cherish the most in Parthi."
 slug = "my-parthi-experience"
+image = "img_jegatheswary_subramaniam_1.jpeg"
 comments = false
 # draft = true
 tags = [
