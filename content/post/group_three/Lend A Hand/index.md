@@ -23,6 +23,6 @@ Materials used:
 
 ## Gallery
 
-{{< image id="img_pradayini_ealingoo.jpeg" >}}
+![](img_pradayini_ealingoo.jpeg) 
 
 ---
