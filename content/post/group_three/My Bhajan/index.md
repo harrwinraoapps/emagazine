@@ -13,7 +13,11 @@ tags = [
 
 ---
 
-I learned this song in my Balvikas. The meaning of this song is O mind, worship the Lotus Feet of your God and Supreme Teacher, Sai Baba who will take you safely across the ocean of Samsara. Victory to our Lord and supreme Teacher, Sai Nath! To chant and worship the divine names of Lord Shiva who dwells on the Arunachala mountain and Sai Baba whose form is OM. Lastly, the reason why I like to sing this song is because it is very meaningful and Swami sang when he was 14 years old. This song reminds me of Swami and all the gurus who taught me this song. Thank you and Sairam.
+I learned this song in my Balvikas. 
+
+The meaning of this song is: O mind, worship the Lotus Feet of your God and Supreme Teacher, Sai Baba who will take you safely across the ocean of Samsara. Victory to our Lord and supreme Teacher, Sai Nath! To chant and worship the divine names of Lord Shiva who dwells on the Arunachala mountain and Sai Baba whose form is OM. 
+
+Lastly, the reason why I like to sing this song is because it is very meaningful and Swami sang this song when He was 14 years old. This song reminds me of Swami and all the gurus who taught me this song. Thank you and Sairam.
 
 ---
 

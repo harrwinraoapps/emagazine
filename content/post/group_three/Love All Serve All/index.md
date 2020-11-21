@@ -11,8 +11,12 @@ tags = [
     "Group 3",
 ]
 +++
- 
-![](quote.jpg)
+
+---
+
+{{< quote >}}
+<p>With Swami's love and blessings, I do not fear this epidemic, as He is omnipresent and will be guiding me always</p>
+{{< /quote >}}
 
 ---
 
