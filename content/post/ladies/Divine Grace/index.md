@@ -14,7 +14,7 @@ tags = [
 
 ---
 
-Gita Samarpanam is a group born out of the vision and initiation of Aunty Jegadeva to recite the verses of Chapter 12 on Bhakti Yoga or Path of Devotion from the most revered holy book - the Bhagavad Gita. It is to be an offering to Bhagawan on Ladies Day for the year 2020.
+The Gita Samarpanam is to be an offering to Bhagawan on Ladies Day for the year 2020.
 
 I grabbed this opportunity to be a part of the sadhana not only as an offering but more importantly to learn to chant the verses. Having tried unsuccessfully and intimidated by the Sanskrit verses, I had given up learning the Bhagavad Gita altogether. Now, with this opportunity, I had it all beautifully planned and laid out smoothly for me, right in the comfort of my home. Classes were to be conducted through Zoom conferencing, in light of the coronavirus pandemic. What a blessing!!!
 Classes commenced on the 22nd of June 2020 and it was conducted by Sister Girija, who was well versed in the subject as she was exposed to spirituality at a tender age. She had grown up on the lap of her uncle, the spiritual leader, Swami Chinmayananda. We were blessed to have her teaching us. Sister Girija began her sadhana with an introduction into the scene of the Kurukshetra war and a glimpse into Chapter 12. I was completely blown away and thought to myself “what had I missed all my life”. It has taken me six decades to get a peek into this treasure trove of wisdom. “Well, better late than never”, I consoled myself. By the end of the first class I was in bliss and I was beaming with happiness. From then on, I began to yearn to know more and experienced an indescribable feeling of pure joy after each session.
@@ -34,10 +34,14 @@ I am ever so grateful to Aunty Jegadeva and Sis Girija for making it possible to
 
 ---
 
-## Mookam Karoti Vachalam Pangum Lankayathe Girim Yath Krupa Thamaham Vandhe Paramananda Madhavam
-
-> I remember with Devotion the Divine Grace of Krishna Who can make the Dumb speak with eloquence and the Lame cross high Mountains. I remember and extol that grace which flows from supreme bliss manifestation of Madhava.
-
+{{< quote >}}
+<p><span style="font-weight:bold;">Mookam Karoti Vachalam<br />
+Pangum Lankayathe Girim<br />
+Yath Krupa Thamaham Vandhe<br />
+Paramananda Madhavam<br />
+</span><br />
+I remember with Devotion the Divine Grace of Krishna Who can make the Dumb speak with eloquence and the Lame cross high Mountains. I remember and extol that grace which flows from supreme bliss manifestation of Madhava.</p>
+{{< /quote >}}
 
 <br>
 
