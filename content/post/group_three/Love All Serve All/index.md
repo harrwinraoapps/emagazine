@@ -6,7 +6,7 @@ description = "I realised that with Swami's blessing and guidence, this epidemic
 slug = "love-all-serve-all"
 image = "swami.jpg"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 3",
 ]

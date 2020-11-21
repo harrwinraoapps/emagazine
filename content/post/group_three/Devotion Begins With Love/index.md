@@ -5,7 +5,7 @@ date = "2020-10-18"
 description = "Lord Sri Rama is the seventh avatar of Lord Vishnu and is one of his most popular incarnations along with Lord Krishna, Lord Parshurama, and Gautama Buddha."
 slug = "devotion_begins_with_love"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 3",
 ]

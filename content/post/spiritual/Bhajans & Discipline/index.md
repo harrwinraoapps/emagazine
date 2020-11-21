@@ -5,7 +5,7 @@ date = "2020-10-18"
 description = "My insights on the importance and components of discipline as a Sai bhajan singer."
 slug = "bhajans-and-discipline"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Spiritual",
 ]

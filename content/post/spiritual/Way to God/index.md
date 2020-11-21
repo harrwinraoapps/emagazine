@@ -5,7 +5,7 @@ date = "2020-10-24"
 description = "A personal take on the reasons behind why Bhajan is the simplest way to reach God."
 slug = "way-to-god"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Spiritual",
 ]

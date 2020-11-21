@@ -5,7 +5,7 @@ date = "2020-10-23"
 description = "I specially dedicate this bhajan 'Janani Janani' to my beloved Swami. Happy Birthday Swami"
 slug = "janani-janani"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 2",
 ]

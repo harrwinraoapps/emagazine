@@ -6,6 +6,7 @@ description = "A birthday card for Baba to thank Him."
 slug = "birthday-card-for-baba"
 image = "img_pramesh_2.jpeg"
 comments = false
+# draft = true
 tags = [
     "Nursery",
 ]

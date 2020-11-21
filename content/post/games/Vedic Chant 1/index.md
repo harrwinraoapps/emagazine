@@ -5,7 +5,7 @@ date = "2020-10-23"
 description = "Crossword Puzzle"
 slug = "vedic-chants-from-sai-kulwant-hall"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Games",
 ]

@@ -5,6 +5,7 @@ date = "2020-10-18"
 description = "An art and craft dedication for Swami's Birthday."
 slug = "my-artwork-1"
 comments = false
+# draft = true
 tags = [
     "Group 1",
 ]

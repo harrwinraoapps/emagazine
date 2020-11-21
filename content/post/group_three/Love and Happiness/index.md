@@ -5,7 +5,7 @@ date = "2020-10-18"
 description = "An article about Baba's teachings on human values that bring happiness."
 slug = "love-happiness"
 comments = false
-draft = true
+# draft = true
 tags = [
     "Group 3",
 ]
