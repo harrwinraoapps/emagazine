@@ -2,7 +2,7 @@
 author = "Darsina Nagarajah"
 title = "Painting with Calligraphy Art"
 date = "2020-10-18"
-description = "The artwork which displays my love towards Bhagavan from the bottom of my heart with my own creativity and the mental help of Swami."
+description = "The artwork which displays my love towards Bhagavan from the bottom of my heart with my own creativity and the mental help from Swami."
 slug = "calligraphy-painting"
 image = "img_darsina_nagarajah_1.jpg"
 comments = false

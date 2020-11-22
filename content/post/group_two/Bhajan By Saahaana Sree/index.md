@@ -12,9 +12,9 @@ tags = [
 
 ---
 
-The story of Lord Vishnu, when the Lords and demons were churning the ocean, they derived the sweet nectar of immortality, the Amirtha. Along with the Amirtha became a beautiful maiden. She was Lakshmi.
+Here is a story of Lord Vishnu. There was a time when the Devas (Lords) and Asuras (demons) were churning the ocean. Eventually, they derived the sweet nectar of immortality, the Amritham. Along with the Amritham, came a beautiful maiden. She was none other than Goddess Lakshmi.
 
-Lakshmi saw Mahavishnu in Indraloka and married him. He became Shreenatha, beloved of fortune. Vishnu placed the symbol of Lakshmi on his chest.
+Goddess Lakshmi saw Mahavishnu in Indraloka and married Him. He became Shreenatha, the beloved of fortune. Lord Vishnu placed the symbol of Goddess Lakshmi on His chest.
 
 ---
 

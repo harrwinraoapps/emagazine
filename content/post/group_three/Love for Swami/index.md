@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-When I sing the glory of Swami, I will think of Him residing in my heart. I feel that He is listening to me singing happily. Humming His name also gives me pleasure. I hope Baba will enjoy listening to me singing this song. This is my way of showing my love towards Him. Sai Ram.
+When I sing the glory of Swami, I will think of Him residing in my heart. I feel that He is listening to me singing happily. Humming His name also gives me pleasure. I hope Baba will enjoy listening to me sing this song. This is my way of showing my love towards Him. Sai Ram.
 
 ---
 

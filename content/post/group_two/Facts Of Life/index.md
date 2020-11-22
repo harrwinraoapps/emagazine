@@ -1,8 +1,8 @@
 +++
 author = "Sarvina Thiyagu"
-title = "Facts Of Life"
+title = "Facts of Life"
 date = "2020-10-18"
-description = "Thank you BABA giving us wonderful life"
+description = "Thank you BABA for giving us a wonderful life."
 slug = "facts-of-life"
 image = "img_sarvina_thiyagu.jpg"
 comments = false
@@ -13,7 +13,7 @@ tags = [
 
 ---
 
-Swami always remind us that we have the solution to all the problems, if we follow good moral facts and guidance. We can be flowers in swami's garden. Thank you BABA giving us wonderful life.
+Swami always reminds us that we have the solution to all problems, provided we follow good moral facts and guidance. We can be flowers in Swami’s garden. Thank you BABA for giving us a wonderful life.
 
 ---
 

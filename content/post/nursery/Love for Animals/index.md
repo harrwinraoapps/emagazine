@@ -2,7 +2,7 @@
 author = "Varnikhaa"
 title = "Love for Animals"
 date = "2020-10-18"
-description = "A colouring of Baba and his dog and deer."
+description = "A colouring of Baba and His dog as well as a deer."
 slug = "love-for-animals"
 image = "img_varnikhaa_1.jpeg"
 comments = false

@@ -1,6 +1,6 @@
 +++
 author = "Ambekadevi Rajathurai"
-title = "Why Baba Chose Parthi"
+title = "Why Baba Chose Parthi?"
 date = "2020-10-24"
 description = "Baba's reason for choosing Puttaparthi"
 slug = "baba-and-parthi"

@@ -2,7 +2,7 @@
 author = "Shujitraa Jegan"
 title = "Swami's Birthday"
 date = "2020-10-24"
-description = "Dedication for swami on his birthday. I feel so blessed when sing this song and feel that swami is always with me."
+description = "I dedicate this song and coloring to Swami on His Birthday. I feel so blessed when I sing this song and feel that Swami is always with me."
 slug = "swami-birthday"
 image = "img_shujitraa_jegan_2.jpeg"
 comments = false
