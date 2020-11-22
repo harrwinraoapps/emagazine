@@ -6,7 +6,7 @@ description = "Reflection on how to offer my best for Swami in everything that I
 slug = "my-best-for-swami"
 comments = false
 tags = [
-    "Balvikas / EHV Gurus",
+    "SSE / SSEHV Gurus",
 ]
 +++
 

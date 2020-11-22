@@ -8,6 +8,8 @@ lastmod = "2020-10-20"
 comments = false
 +++
 
+![](/img/center_altar.jpeg)
+
 ## Foreword
 
 Dear Reader,

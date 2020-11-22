@@ -1,9 +1,9 @@
 # baseurl = "https://harrwinraoapps.github.io/emagazine"
 # baseurl = "https://example.com"
-baseurl = "https://emagazine.ssbcbandarklang.org/"
+baseurl = "https://emagazine.ssbcbandarklang.org"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
-paginate = 5
+paginate = 10
 title = "The Awakening"
 disqusShortname = "hugo-theme-stack"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "en"                   # Theme i18n support

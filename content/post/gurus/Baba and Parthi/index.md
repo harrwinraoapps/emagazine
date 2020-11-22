@@ -8,7 +8,7 @@ image = "puttaparthi.jpg"
 comments = false
 # draft = true
 tags = [
-    "Balvikas / EHV Gurus",
+    "SSE / SSEHV Gurus",
 ]
 +++
 
