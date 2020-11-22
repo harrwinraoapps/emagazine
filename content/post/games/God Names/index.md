@@ -2,7 +2,7 @@
 author = "Vijay Nair"
 title = "Names of Gods and Sages"
 date = "2020-10-23"
-description = "Crossword Puzzle"
+description = "Please type in your answers to the boxes by clicking and typing. If you get the correct answer, the font color will change to green. Happy playing!"
 slug = "god-names"
 comments = false
 # draft = true

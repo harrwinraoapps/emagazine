@@ -11,7 +11,12 @@ tags = [
 ]
 +++
 
-{{< triviaquiz >}}
+---
 
+Let's check your knowledge and take this quiz. There are 6 questions for you to answer.
+
+---
+
+{{< triviaquiz >}}
 
 ---

@@ -2,7 +2,7 @@
 author = "Prateeka Sri Rajaram"
 title = "Om Sahana Vavatu Mantra"
 date = "2020-10-23"
-description = "Guru Student Mantra"
+description = "I would like to chant this mantra to my dearest Swami on His 95th Birthday."
 slug = "sahana-vavatu"
 comments = false
 # draft = true
