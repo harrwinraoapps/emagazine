@@ -13,6 +13,8 @@ tags = [
 
 Are you up for a challenge? Try solving this 60 piece jigsaw puzzle of a photo of Swami, as fast as you can. 
 
+> Best played on full screen mode
+
 {{< jigsaw 149616739546 >}}
 
 ---

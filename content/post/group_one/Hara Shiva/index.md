@@ -2,7 +2,7 @@
 author = "Akaysha Vijindran"
 title = "Sing and Play Harmonium"
 date = "2020-10-23"
-description = "Sai ram, I am singing and playing Hara Shiva Shankara on the harmonium"
+description = "Sai ram, I am singing and playing Hara Shiva Shankara on the harmonium for my dear Swami."
 slug = "sing-play"
 # draft = true
 comments = false

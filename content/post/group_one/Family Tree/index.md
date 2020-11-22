@@ -2,7 +2,7 @@
 author = "Rhoshwinram Kanageswarn"
 title = "Family"
 date = "2020-10-23"
-description = "Family tree"
+description = "This is my family tree dedication to Swami on His 95th Birthday"
 slug = "family-tree"
 comments = false
 # draft = true
