@@ -2,7 +2,7 @@
 author = "Pradayini Ealingoo"
 title = "Lend a hand"
 date = "2020-10-18"
-description = "A girl helping a stray dog by feeding it. Seeing the god in a living being, she showed love by giving food."
+description = "A girl helping a stray dog by feeding it. Seeing God in every living being, she showed love by giving it food."
 slug = "lend-a-hand"
 image = "img_pradayini_ealingoo.jpeg"
 comments = false

@@ -1,6 +1,6 @@
 +++
 author = "Piriyan Thiyagu"
-title = "Save The Mother Earth"
+title = "Save Mother Earth"
 date = "2020-10-18"
 description = "Happy and Unhappy Mother Earth Poster"
 slug = "save-the-mother-earth"
@@ -13,7 +13,7 @@ tags = [
 
 ---
 
-My poster shown happy and unhappy mother earth. Our mother earth only one who hugs us by loving nature. Let's save our mother together. Thanks for BABA giving us wonderful life.
+My poster shows a happy and unhappy illustration of Mother Earth. Our Mother Earth hugs us in the form of the loving nature around us. Let’s save our Mother Earth together. Thanks to BABA for giving us a wonderful life.
 
 ---
 

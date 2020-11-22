@@ -15,7 +15,7 @@ tags = [
 
 Sai is the embodiment of divine bliss, ultimate bliss and supreme wisdom. 
 
-He is beyond duality and is all pervasive and the destination of all paths. 
+He is beyond duality and is all pervasive; He is the destination of all paths.
 
 He is one without a second and permanent.
 

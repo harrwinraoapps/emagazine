@@ -2,7 +2,7 @@
 author = "Khayern Murali"
 title = "Baba and Baby"
 date = "2020-10-18"
-description = "Baba showering his love on children"
+description = "Baba showering His love on children."
 slug = "baba-and-baby"
 image = "img_khayern_murali_2.jpeg"
 comments = false

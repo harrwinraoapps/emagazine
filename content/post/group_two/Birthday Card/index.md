@@ -2,7 +2,7 @@
 author = "Tivyssha Sai Sanmuga Velan"
 title = "A Birthday Card For Swami"
 date = "2020-10-18"
-description = "To describe my love towards Baba on his birthday and to expand my creativity through art and craft with the help of my mother."
+description = "To describe my love towards Baba on His birthday and to expand my creativity through art and craft with the help of my mother."
 slug = "birthday-card"
 image = "img_tivyssha_sai_1.jpeg"
 comments = false
@@ -14,7 +14,7 @@ tags = [
 
 ---
 
-In this card have written a lovely message which given by our beloved Swami, Birthday wishes, Swami’s picture and were added decorations like flowers.
+In this card, I have written a lovely message which was given by our beloved Swami, Birthday wishes, Swami’s picture and were added decorations like flowers. 
 
 ---
 

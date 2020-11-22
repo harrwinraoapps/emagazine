@@ -2,7 +2,7 @@
 author = "Ambekadevi Rajathurai"
 title = "Gayatri Mantra"
 date = "2020-10-18"
-description = "Innner significance of the Gayatri mantra."
+description = "Inner significance of the Gayatri mantra."
 slug = "gayatri_mantra"
 image = "img_ambekadevi_rajathurai_1.jpg"
 comments = false

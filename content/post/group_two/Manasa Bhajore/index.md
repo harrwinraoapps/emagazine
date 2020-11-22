@@ -13,7 +13,7 @@ tags = [
 
 ---
 
-With swami teaching I have learned how to love and care to others.
+Through Swami's teachings I have learned how to love and care for others.
 
 ---
 
