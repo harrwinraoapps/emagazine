@@ -8,6 +8,8 @@ lastmod = "2020-10-20"
 comments = false
 +++
 
+![](/img/center_altar.jpeg)
+
 ## Foreword
 
 Dear Reader,
@@ -21,8 +23,8 @@ Isn’t it rightly said, “A flower makes no garland.” Thus, The Awakening is
 We apologize for shortcomings, if any and welcome your feedback. Hope you will cherish our efforts.\
 Happy reading!
 
-Chairman of SSBCBK,\
-Ramanathan
+Ramanathan,\
+Chairman of SSBCBK
 
 ## Preface
 

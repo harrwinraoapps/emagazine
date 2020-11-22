@@ -4,7 +4,12 @@
     {{ $filtered := ($pages | intersect $notHidden) }}
     {{ $pag := .Paginate ($filtered) }}
 
-    <button type="button">Click Me!</button>
+    <section class="article-tags">
+        <p>Learn more about The Awakening.</p>
+        <a href="/about">Click Here</a>
+    </section>
+
+    <br />
 
     <section class="article-list">
         {{ range $index, $element := $pag.Pages }}

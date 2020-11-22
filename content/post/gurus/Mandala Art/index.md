@@ -8,7 +8,7 @@ image = "img_shamani_nadaraja_1.jpg"
 comments = false
 # draft = true
 tags = [
-    "Balvikas / EHV Gurus",
+    "SSE / SSEHV Gurus",
 ]
 +++
 

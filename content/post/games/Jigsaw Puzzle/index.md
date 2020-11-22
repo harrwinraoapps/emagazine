@@ -1,9 +1,9 @@
 +++
 author = "Harrwinrao Ramarao"
-title = "Sunset Puzzle"
+title = "Life is a Puzzle"
 date = "2020-10-23"
 description = "Jigsaw Puzzle"
-slug = "sunset-jigsaw"
+slug = "swami-jigsaw"
 comments = false
 # draft = true
 tags = [
@@ -11,8 +11,8 @@ tags = [
 ]
 +++
 
-Are you up for a challenge? Try solving this 100 piece sunset jigsaw puzzle as fast as you can. 
+Are you up for a challenge? Try solving this 60 piece jigsaw puzzle of a photo of Swami, as fast as you can. 
 
-{{< jigsaw 32055D5037F1 >}}
+{{< jigsaw 149616739546 >}}
 
 ---
