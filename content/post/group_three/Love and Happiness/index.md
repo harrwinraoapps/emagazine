@@ -1,7 +1,7 @@
 +++
 author = "Pravindkhanna Ramesh"
 title = "LOVE = HAPPINESS"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "An article about Baba's teachings on human values that bring happiness."
 slug = "love-happiness"
 comments = false

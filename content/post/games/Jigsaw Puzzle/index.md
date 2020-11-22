@@ -1,7 +1,7 @@
 +++
 author = "Harrwinrao Ramarao"
 title = "Life is a Puzzle"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "Jigsaw Puzzle"
 slug = "swami-jigsaw"
 comments = false

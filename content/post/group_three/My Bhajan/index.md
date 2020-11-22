@@ -1,7 +1,7 @@
 +++
 author = "Vainavi Thirunakarsu"
 title = "My Bhajan"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "Sairam, my name is Vainavi and I am 13 years old. The title of my song is Manasa Bhajorey Guru Charanam."
 slug = "my-bhajan"
 comments = false

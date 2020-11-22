@@ -1,7 +1,7 @@
 +++
 author = "Akaysha Vijindran"
 title = "Singing Jai Durga Lakshmi"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "I am singing this Devi bhajan for my dear Sai Ma on the occasion of 95th Birthday"
 slug = "jai-durga"
 comments = false

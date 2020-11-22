@@ -1,7 +1,7 @@
 +++
 author = "Sai Simmartheny Sathiaseelan"
 title = "My Art & Craft"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "An art and craft dedication for Swami's Birthday."
 slug = "my-artwork-1"
 comments = false

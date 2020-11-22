@@ -1,7 +1,7 @@
 +++
 author = "Shamani Nadaraja"
 title = "Love Is All You Need"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "Mandala Art with a concept of love."
 slug = "mandala-art"
 image = "img_shamani_nadaraja_1.jpg"

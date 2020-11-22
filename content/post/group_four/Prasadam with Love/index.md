@@ -1,7 +1,7 @@
 +++
 author = "Kirshatharshini a/p Krishnamorthy"
 title = "Prasadam with Love"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "How to prepare curd rice."
 slug = "prasadam-with-love"
 comments = false

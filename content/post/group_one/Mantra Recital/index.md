@@ -1,7 +1,7 @@
 +++
 author = "Ashvath Sai"
 title = "Mantra Recital and Bhajan"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "Recital of Mantra, learned during Balvikas session in Group 1 and singing of Amman Bhajan"
 slug = "mantra-recital"
 comments = false

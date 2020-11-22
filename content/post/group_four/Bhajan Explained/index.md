@@ -1,7 +1,7 @@
 +++
 author = "Thareni Thirunakarsu"
 title = "Bhajan Explained"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "This song is a very meaningful and melodious Bhajan."
 slug = "bhajan-song"
 comments = false

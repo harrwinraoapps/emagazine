@@ -1,7 +1,7 @@
 +++
 author = "Tivyssha Sai Sanmuga Velan"
 title = "A Birthday Card For Swami"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "To describe my love towards Baba on His birthday and to expand my creativity through art and craft with the help of my mother."
 slug = "birthday-card"
 image = "img_tivyssha_sai_1.jpeg"

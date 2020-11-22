@@ -1,7 +1,7 @@
 +++
 author = "Venoshaa Soori"
 title = "Bhajan Song"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "This song reminds me of how Swami teaches small kids and how He took care of them."
 slug = "bhajan-song-1"
 comments = false

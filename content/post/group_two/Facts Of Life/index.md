@@ -1,7 +1,7 @@
 +++
 author = "Sarvina Thiyagu"
 title = "Facts of Life"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "Thank you BABA for giving us a wonderful life."
 slug = "facts-of-life"
 image = "img_sarvina_thiyagu.jpg"

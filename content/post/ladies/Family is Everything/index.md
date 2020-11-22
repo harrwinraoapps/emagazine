@@ -1,7 +1,7 @@
 +++
 author = "Sajeeta Suppiah"
 title = "Family is EVERYTHING"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "An article pertaining to my experiences during Covid - how I used this opportunity towards keeping my family together through life skills learnt and spiritual advancements together."
 slug = "family-is-everything"
 image = "img2.jpeg"

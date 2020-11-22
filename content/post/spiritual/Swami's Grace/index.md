@@ -1,7 +1,7 @@
 +++
 author = "Anjulah Mohanram"
 title = "Swami's Grace"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "Collection of testimonials from devotees."
 slug = "swami-grace"
 image = "img_swami_grace.png"

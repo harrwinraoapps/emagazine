@@ -1,7 +1,7 @@
 +++
 author = "Sainesh Murthy"
 title = "Baba's Birthday"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "A birthday card for Swami"
 slug = "baba-birthday"
 comments = false

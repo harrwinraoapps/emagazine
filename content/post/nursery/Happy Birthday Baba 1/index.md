@@ -1,7 +1,7 @@
 +++
 author = "Dhiveesh"
 title = "Happy Birthday Baba"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "A short video of me wishing Baba a very Happy 95th Birthday."
 slug = "birthday-drawings-for-baba"
 image = "img_dhiveesh.jpeg"

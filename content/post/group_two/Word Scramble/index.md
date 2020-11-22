@@ -1,7 +1,7 @@
 +++
 author = "Gaurishan Mahendren"
 title = "Word Scramble / Dot2Dot"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "This is a game activity chart from me for Swami's 95th Birthday."
 slug = "values-success"
 image = "img_gaurishan_mahendren_1.jpg"

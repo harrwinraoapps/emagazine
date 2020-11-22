@@ -1,7 +1,7 @@
 +++
 author = "Lakhshanaa Valli Jayamaran"
 title = "Diya's Love for Swami"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "This is a short story of a girl called Diya and her profound love for Swami and His lovely message to her."
 slug = "diyas-love"
 comments = false

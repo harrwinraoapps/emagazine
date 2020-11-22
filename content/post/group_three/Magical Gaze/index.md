@@ -1,7 +1,7 @@
 +++
 author = "Arismita"
 title = "Magical Gaze"
-date = "2020-11-23"
+date = "2020-11-22"
 description = "I drew this sketch of Swami as I feel His gaze with so much love and generosity will always be on me wherever I go throughout my life."
 slug = "magical-gaze"
 image = "img_magical_gaze_swami.jpg"
