@@ -24,7 +24,8 @@
       
       <guid>https://emagazine.ssbcbandarklang.org/p/swami-jigsaw/</guid>
       <description>Are you up for a challenge? Try solving this 60 piece jigsaw puzzle of a photo of Swami, as fast as you can.
-.jigsaw {margin: 10px auto 20px;display: block;}  </description>
+ Best played on full screen mode
+ .jigsaw {margin: 10px auto 20px;display: block;}  </description>
     </item>
     
     <item>
@@ -43,7 +44,8 @@
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://emagazine.ssbcbandarklang.org/p/trivia-quiz/</guid>
-      <description>div.quote{font-style: italic; text-align:center;margin-top: auto;margin-bottom: auto;margin-left: 2em;margin-right: 2em;}  </description>
+      <description> Let&amp;rsquo;s check your knowledge and take this quiz. There are 6 questions for you to answer.
+ div.quote{font-style: italic; text-align:center;margin-top: auto;margin-bottom: auto;margin-left: 2em;margin-right: 2em;}  </description>
     </item>
     
     <item>
