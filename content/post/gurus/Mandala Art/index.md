@@ -14,7 +14,7 @@ tags = [
 
 ---
 
-Mandala Art with a concept of love. Swami was my inspiration and the colours were from the idea of a colourful life. Colours describe joyfulness and happiness in one’s life. Mandala Art is something through which I have learnt to be patience and to manage my emotions.
+Mandala Art with a concept of love. Swami was my inspiration and the colours were from the idea of a colourful life. Colours describe joyfulness and happiness in one’s life. Mandala Art is something through which I have learnt to be patient and to manage my emotions.
 
 Thank you
 

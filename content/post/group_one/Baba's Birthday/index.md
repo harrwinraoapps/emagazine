@@ -13,6 +13,8 @@ tags = [
 
 ---
 
+This card is my dedication to Swami on His 95th Birthday.
+
 ## Birthday Card Dedication
 
 {{< youtube gvqIEHeO-Eg >}}

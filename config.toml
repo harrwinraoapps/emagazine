@@ -83,6 +83,12 @@ CanonifyURLs = true
         weight = -70
         pre = "user"
     [[menu.main]]
+        identifier = "sai95"
+        name = "SAI95 Pathways of LOVE"
+        url = "sai95"
+        weight = -80
+        pre = "user"
+    [[menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "contact"
