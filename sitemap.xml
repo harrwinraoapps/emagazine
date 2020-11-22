@@ -188,6 +188,11 @@
   </url>
   
   <url>
+    <loc>https://emagazine.ssbcbandarklang.org/p/swami-jigsaw/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://emagazine.ssbcbandarklang.org/p/love-all-serve-all/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
@@ -254,11 +259,6 @@
   
   <url>
     <loc>https://emagazine.ssbcbandarklang.org/p/strings-of-love/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emagazine.ssbcbandarklang.org/p/sunset-jigsaw/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -563,15 +563,15 @@
   </url>
   
   <url>
-    <loc>https://emagazine.ssbcbandarklang.org/tags/balvikas-/-ehv-gurus/</loc>
-  </url>
-  
-  <url>
     <loc>https://emagazine.ssbcbandarklang.org/categories/</loc>
   </url>
   
   <url>
     <loc>https://emagazine.ssbcbandarklang.org/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://emagazine.ssbcbandarklang.org/tags/sse-/-ssehv-gurus/</loc>
   </url>
   
 </urlset>
