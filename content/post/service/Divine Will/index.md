@@ -2,7 +2,7 @@
 author = "Mohana Kumar Suppiah"
 title = "Abundance is Divine Will"
 date = "2020-11-22"
-description = "A journey or mine that took various combinations of dedication and devotion from all known or unknown. The karmic baggage with grace drives from the intense selfless prayers for someone in need."
+description = "A journey of mine that took various combinations of dedication and devotion from all known or unknown. The karmic baggage with grace drives from the intense selfless prayers for someone in need."
 slug = "divine-will"
 comments = false
 # draft = true
