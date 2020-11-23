@@ -1,7 +1,7 @@
 +++
 author = "Shashmeetha Chandran"
 title = "Why fear when I am here?"
-date = "2020-10-23"
+date = "2020-11-23"
 description = "'Why fear when I am here' is a famous quote from our beloved Bhagawan Sri Sathya Sai Baba. It has a deep meaning that should be practiced in our life when we are in trouble."
 slug = "quote"
 image = "img_shashmeetha_chandran_1.jpg"

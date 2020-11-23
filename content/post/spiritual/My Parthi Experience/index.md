@@ -1,7 +1,7 @@
 +++
 author = "Jegatheswary T.Subramaniam"
 title = "My Parthi Experience"
-date = "2020-10-18"
+date = "2020-11-23"
 description = "The moments which I cherish the most in Parthi."
 slug = "my-parthi-experience"
 image = "img_jegatheswary_subramaniam_1.jpeg"

@@ -1,7 +1,7 @@
 +++
 author = "Shriti Surendran Kumar"
 title = "Nature Is God, God Is Nature"
-date = "2020-10-23"
+date = "2020-11-23"
 description = "A Gratitude Artwork"
 slug = "nature-is-god"
 image = "img_shriti_surendran_kumar_1.jpg"

@@ -1,7 +1,7 @@
 +++
 author = "Sai Varshann Naidu Gunasegaran"
 title = "Save The Ocean (Diorama)"
-date = "2020-10-18"
+date = "2020-11-23"
 description = "Fulfilling responsibility towards Mother Nature"
 slug = "save-ocean"
 image = "img_sai_varshann_1.jpg"

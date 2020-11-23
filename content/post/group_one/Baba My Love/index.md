@@ -1,7 +1,7 @@
 +++
 author = "Shivendraa Surendran"
 title = "Baba, My Love"
-date = "2020-10-18"
+date = "2020-11-23"
 description = "A simple gift box for my dearest Baba, My Love"
 slug = "baba-my-love"
 image = "img_shivendraa_surendran_1.jpeg"

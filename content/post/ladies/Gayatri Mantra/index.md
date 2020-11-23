@@ -1,7 +1,7 @@
 +++
 author = "Ambekadevi Rajathurai"
 title = "Gayatri Mantra"
-date = "2020-10-18"
+date = "2020-11-23"
 description = "Inner significance of the Gayatri mantra."
 slug = "gayatri_mantra"
 image = "img_ambekadevi_rajathurai_1.jpg"

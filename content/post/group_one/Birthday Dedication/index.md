@@ -1,7 +1,7 @@
 +++
 author = "Shamitha Jayamaran"
 title = "Birthday Card Dedication"
-date = "2020-10-24"
+date = "2020-11-23"
 description = "Specially designed birthday card for Swami"
 slug = "birthday-dedication"
 image = "img_shamitha_jayamaran_2.jpg"

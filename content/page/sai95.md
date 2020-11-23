@@ -1,10 +1,10 @@
 +++
 title = "SAI95 Pathways of Love"
 description = "Self - Family - All"
-date = "2020-10-19"
+date = "2020-11-23"
 aliases = ["sai95"]
 author = "Sathya Sai Baba Centre of Bandar Klang"
-lastmod = "2020-10-20"
+lastmod = "2020-11-23"
 comments = false
 +++
 

@@ -1,7 +1,7 @@
 +++
 author = "Sai Hridayaviharine Mohanram"
 title = "Strings of Love"
-date = "2020-10-23"
+date = "2020-11-23"
 description = "A gift to Swami on His 95th year of advent from Sai Hridayaviharine Mohanram by playing ukulele."
 slug = "strings-of-love"
 comments = false

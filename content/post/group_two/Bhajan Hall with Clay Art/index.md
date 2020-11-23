@@ -1,7 +1,7 @@
 +++
 author = "Santhossh Nagarajah"
 title = "Bhajan Hall with Clay Art"
-date = "2020-10-24"
+date = "2020-11-23"
 description = "To describe my love towards Baba on His birthday and to expand my creativity through art and craft with the help of my family members."
 slug = "clay-art"
 image = "img_santhossh_nagarajah_2.jpg"

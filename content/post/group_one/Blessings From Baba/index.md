@@ -1,7 +1,7 @@
 +++
 author = "Keshanaa Vijayan"
 title = "Blessings From Baba"
-date = "2020-10-24"
+date = "2020-11-23"
 description = "An offering to Swami"
 slug = "blessings-from-baba"
 comments = false

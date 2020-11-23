@@ -1,7 +1,7 @@
 +++
 author = "Saideep Rao"
 title = "Drawing"
-date = "2020-10-18"
+date = "2020-11-23"
 description = "A drawing in conjunction with Baba's birthday."
 slug = "baba-birthday-drawing"
 comments = false

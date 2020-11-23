@@ -1,7 +1,7 @@
 +++
 author = "Kaushalya Somu Naidu"
 title = "The Life Story Of Baba"
-date = "2020-10-18"
+date = "2020-11-23"
 description = "The article is about our beloved Sathya Sai Baba's life story."
 slug = "swami-life-story"
 comments = false

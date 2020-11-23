@@ -1,7 +1,7 @@
 +++
 author = "Hemmaraj Hiran"
 title = "Human Values Drawing"
-date = "2020-10-24"
+date = "2020-11-23"
 description = "My describe on Baba's love on his birthday and to expand my creativity drawing with help by my family members."
 slug = "hv-drawing"
 image = "img_hemmaraj_hiran_1.JPG"

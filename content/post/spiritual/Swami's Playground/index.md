@@ -1,7 +1,7 @@
 +++
 author = "Anjulah Mohanram"
 title = "Swami's Playground"
-date = "2020-10-18"
+date = "2020-11-23"
 description = "Collection of testimonials from devotees."
 slug = "swami-playground"
 image = "img_swami_playground.png"

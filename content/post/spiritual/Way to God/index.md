@@ -1,7 +1,7 @@
 +++
 author = "Lekshman"
 title = "7 Reasons Why Bhajans Are The Simplest Way To God"
-date = "2020-10-24"
+date = "2020-11-23"
 description = "A personal take on the reasons behind why Bhajan is the simplest way to reach God."
 slug = "way-to-god"
 comments = false
