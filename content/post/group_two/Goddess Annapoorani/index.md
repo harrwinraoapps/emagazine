@@ -1,7 +1,7 @@
 +++
 author = "Sundaresan Reddy"
 title = "Story of Goddess Annapoorani"
-date = "2020-10-24"
+date = "2020-11-22"
 description = "This is the story of Goddess Annapoorani."
 slug = "goddess-annapoorani"
 comments = false

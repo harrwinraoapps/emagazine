@@ -1,10 +1,10 @@
 +++
 title = "About"
 description = "Learn more about The Awakening initiative and the foreword for the site."
-date = "2020-10-19"
+date = "2020-11-23"
 aliases = ["about-us"]
 author = "Sathya Sai Baba Centre of Bandar Klang"
-lastmod = "2020-10-20"
+lastmod = "2020-11-23"
 comments = false
 +++
 

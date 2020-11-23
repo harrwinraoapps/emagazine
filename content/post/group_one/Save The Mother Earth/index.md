@@ -1,7 +1,7 @@
 +++
 author = "Piriyan Thiyagu"
 title = "Save Mother Earth"
-date = "2020-10-18"
+date = "2020-11-22"
 description = "Happy and Unhappy Mother Earth Poster"
 slug = "save-the-mother-earth"
 image = "img_piriyan_thiyagu.jpg"

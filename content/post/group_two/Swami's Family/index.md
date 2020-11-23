@@ -1,7 +1,7 @@
 +++
 author = "Dhanieya Gunasegaran"
 title = "Swami's Family"
-date = "2020-10-23"
+date = "2020-11-22"
 description = "A simple artwork on Swami’s Family Tree"
 slug = "swamis-family"
 image = "img_dhanieya_gunasegaran_1.jpg"

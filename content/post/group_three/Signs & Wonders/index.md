@@ -1,7 +1,7 @@
 +++
 author = "Kishore Shanmugam"
 title = "Signs & Wonders Of Sathya Sai"
-date = "2020-10-18"
+date = "2020-11-22"
 description = "To understand Baba’s significant signs of wonders, we must delve faithfully to understand His glory and experience the element of divinity with the path of compassion and love without boundaries."
 slug = "signs-wonders"
 comments = false

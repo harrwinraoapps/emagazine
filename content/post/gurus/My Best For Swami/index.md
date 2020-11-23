@@ -1,7 +1,7 @@
 +++
 author = "Chandini Naveen"
 title = "My Best For Swami"
-date = "2020-10-24"
+date = "2020-11-22"
 description = "Reflection on how to offer my best for Swami in everything that I do."
 slug = "my-best-for-swami"
 comments = false

@@ -1,7 +1,7 @@
 +++
 author = "Shveta Divyaani"
 title = "Shveta's Trifle Pudding"
-date = "2020-10-18"
+date = "2020-11-22"
 description = "A recipe I learnt from my mother and to be shared with all"
 slug = "trifle-pudding"
 comments = false

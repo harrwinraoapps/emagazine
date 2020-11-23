@@ -1,7 +1,7 @@
 +++
 author = "Naveen"
 title = "Manasa Bhajare Unplugged"
-date = "2020-10-24"
+date = "2020-11-22"
 description = "A humble offering at His Divine lotus feet of an unplugged version of the bhajan - Manasa Bhajare."
 slug = "manasa-bhajare-unplugged"
 comments = false

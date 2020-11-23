@@ -1,7 +1,7 @@
 +++
 author = "Prema Balakrishnan"
 title = "Seek And You Will Find The Inner Peace You Crave"
-date = "2020-10-24"
+date = "2020-11-22"
 description = "To find who we are, each of us have to take the step inwards for there in lies the universe that we are all seeking"
 slug = "inner-peace"
 comments = false

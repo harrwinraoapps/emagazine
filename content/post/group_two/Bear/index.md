@@ -1,7 +1,7 @@
 +++
 author = "Sai Kaviish Naidu Thiagarajan"
 title = "Two Friends & The Bear"
-date = "2020-10-23"
+date = "2020-11-22"
 description = "A friend in need is a friend indeed."
 slug = "friends-bear"
 comments = false

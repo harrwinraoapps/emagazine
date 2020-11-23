@@ -1,7 +1,7 @@
 +++
 author = "Shreya Eshani Suria Kumar"
 title = "My Visit to the Abode of Supreme Peace"
-date = "2020-10-23"
+date = "2020-11-22"
 description = "My experience at Prashanti Nilayam in 2019."
 slug = "abode-of-peace"
 comments = false

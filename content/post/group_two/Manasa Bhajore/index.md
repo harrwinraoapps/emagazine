@@ -1,7 +1,7 @@
 +++
 author = "Jeevesh Achuthan"
 title = "Manasa Bhajore Guru Charanam"
-date = "2020-10-18"
+date = "2020-11-22"
 description = "Through Swami's teachings I have learned how to love and care for others."
 slug = "manasa-bhajore"
 comments = false

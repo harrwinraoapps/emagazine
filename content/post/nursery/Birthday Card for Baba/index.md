@@ -1,7 +1,7 @@
 +++
 author = "Aneshver"
 title = "Birthday Card for Baba"
-date = "2020-10-18"
+date = "2020-11-22"
 description = "Happy Birthday Baba, I Love You."
 slug = "birthday-card-for-baba"
 image = "img_aneshver_1.jpeg"

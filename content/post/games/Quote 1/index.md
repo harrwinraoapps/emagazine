@@ -1,7 +1,7 @@
 +++
 author = "Vijay Nair"
 title = "Solve These Quotes"
-date = "2020-10-23"
+date = "2020-11-22"
 description = "Unscramble Puzzle"
 slug = "solve-these-quotes"
 comments = false

@@ -1,7 +1,7 @@
 +++
 author = "Harrwinrao"
 title = "The Divine Lullaby"
-date = "2020-11-11"
+date = "2020-11-22"
 description = "The story of Queen Madālasā's Lullaby holds a special place due to its deep meaning in explaining life's core truths in the form of a lullaby."
 slug = "the-divine-lullaby"
 image = "markandeya.jpg"

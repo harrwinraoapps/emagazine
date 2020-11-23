@@ -1,7 +1,7 @@
 +++
 author = "Sasmietha Sri K.Anbarasan"
 title = "Bookmark on Swami's Quotes"
-date = "2020-10-24"
+date = "2020-11-22"
 description = "This is bookmark with Swami's messages that I have done in conjunction for Swami's 95th Birthday."
 slug = "quotes-bookmark"
 image = "img_sasmietha_anbarasan_3.jpg"

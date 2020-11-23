@@ -1,7 +1,7 @@
 +++
 author = "Taranidhran Mahendra Kumar"
 title = "Devotion Begins With Love"
-date = "2020-10-18"
+date = "2020-11-22"
 description = "Lord Sri Rama is the seventh avatar of Lord Vishnu and is one of His most popular incarnations along with Lord Krishna, Lord Parshurama, and Gautama Buddha."
 slug = "devotion_begins_with_love"
 comments = false

@@ -1,7 +1,7 @@
 +++
 author = "Sai Kaviish Naidu Thiagarajan"
 title = "Jai Jai Manamohana"
-date = "2020-10-23"
+date = "2020-11-22"
 description = "I specially dedicate this bhajan 'Jai Jai Manamohana' to my beloved Swami. Happy Birthday Swami"
 slug = "jai-jai"
 comments = false
