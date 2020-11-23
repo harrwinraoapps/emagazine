@@ -1,7 +1,7 @@
 +++
 author = "Kamala Perumal"
 title = "Service of Love"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "Why doing service is important to you? How does the seva improve you as a person as a spiritual aspirant as a guru?"
 slug = "service-of-love"
 image = "service_of_love_4.jpg"

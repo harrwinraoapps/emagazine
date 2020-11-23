@@ -1,7 +1,7 @@
 +++
 author = "Bhavadharni Ealingoo"
 title = "Thank You Sai"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "A poem with everything I learned from Swami"
 slug = "thank-you-sai"
 comments = false

@@ -1,7 +1,7 @@
 +++
 author = "Anjulah Mohanram"
 title = "I Have You All to Myself"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "Collection of testimonials from devotees."
 slug = "i-have-you-all-to-myself"
 image = "img_i_have_you_all_to_myself.png"

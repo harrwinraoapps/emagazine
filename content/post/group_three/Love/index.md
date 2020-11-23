@@ -1,7 +1,7 @@
 +++
 author = "Thanushri Thayalan"
 title = "Love"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "The value of love is very important to me because I feel that without love, there will be no light and the world will be dark and full of negativity."
 slug = "love"
 comments = false

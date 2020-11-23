@@ -1,7 +1,7 @@
 +++
 author = "Sarvesh Rau Somu Naidu"
 title = "A Krishna Song - Jaya Ho"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "I'm Sarvesh Rau from SSBCBK - Balvikas Group 1. I dedicate this song to Swami and wish Happy 95th Birthday to Swami."
 slug = "a-krishna-song"
 comments = false

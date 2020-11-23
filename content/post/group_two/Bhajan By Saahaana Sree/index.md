@@ -1,7 +1,7 @@
 +++
 author = "Shahaana Sree Saravanan"
 title = "The Divine Lakshmi"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "Divine Lakshmi Song"
 slug = "the-divine-lakshmi-song"
 comments = false

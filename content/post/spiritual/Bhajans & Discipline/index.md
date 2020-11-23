@@ -1,7 +1,7 @@
 +++
 author = "Chandini Naveen"
 title = "Bhajans & Discipline"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "My insights on the importance and components of discipline as a Sai bhajan singer."
 slug = "bhajans-and-discipline"
 comments = false

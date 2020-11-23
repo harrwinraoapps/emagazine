@@ -1,7 +1,7 @@
 +++
 author = "Vijay Nair"
 title = "Names of Gods and Sages"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "Please type in your answers to the boxes by clicking and typing. If you get the correct answer, the font color will change to green. Happy playing!"
 slug = "god-names"
 comments = false

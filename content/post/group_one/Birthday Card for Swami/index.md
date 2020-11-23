@@ -1,7 +1,7 @@
 +++
 author = "S.Saai Harieedraa"
 title = "A Birthday Card for Swami"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "To describe my love towards Baba on His birthday."
 slug = "birthday-card-swami"
 image = "img_saai_harieedraa_2.jpeg"
