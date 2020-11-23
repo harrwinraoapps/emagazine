@@ -2,7 +2,7 @@
 author = "Keshanaa Vijayan"
 title = "Blessings From Baba"
 date = "2020-11-22"
-description = "An offering to Swami"
+description = "An offering to Swami in conjunction with His 95th Birthday"
 slug = "blessings-from-baba"
 comments = false
 # draft = true

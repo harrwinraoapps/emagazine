@@ -15,5 +15,10 @@ Fill in the answers to the Clues.
 
 {{< puzzle id="vedic-chants-from-sai-kulwant-hall?clue_height=30" >}}
 
+---
+
+#### References
+
+Adapted from Sri Sathya Sai Media Centre
 
 ---
