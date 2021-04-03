@@ -1,6 +1,6 @@
 +++
 author = "Vedanjali Sreeramanan"
-title = "Why fear when I am here?"
+title = "A sketch of Lord Shiva"
 date = "2021-03-31"
 description = "My offering in the form of a drawing to Lord Shiva in conjunction with Mahashivarathri Celebrations."
 slug = "shiva"
