@@ -1,7 +1,7 @@
 +++
 author = "Venoshaa"
 title = "Earth Day"
-date = "2021-04-30"
+date = "2021-03-31"
 description = "An article on Earth Day."
 slug = "earth-day"
 image = "img_venoshaa_1.jpg"

@@ -1,7 +1,7 @@
 +++
 author = "Veemeleswary"
 title = " Earth Day Art"
-date = "2021-04-30"
+date = "2021-03-31"
 description = "Earth Day is observed to raise awareness related to environmental issues. Here's all you need to know about Earth Day 2021."
 slug = "earth-day-art"
 image = "img_veemeleswary_1.jpg"

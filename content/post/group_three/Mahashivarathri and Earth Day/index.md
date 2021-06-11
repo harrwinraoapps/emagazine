@@ -1,7 +1,7 @@
 +++
 author = "Yoshana Tharshini"
 title = "e-poster for Mahashivarathri and Earth Day"
-date = "2021-04-30"
+date = "2021-03-31"
 description = "My e-poster for Mahashivarathri and Earth Day"
 slug = "eposter-mahashivarathri"
 comments = false

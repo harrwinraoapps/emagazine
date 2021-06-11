@@ -1,7 +1,7 @@
 +++
 author = "Darsina Nagarajah"
 title = " Earth Day Painting"
-date = "2021-04-30"
+date = "2021-03-31"
 description = "The painting which potrays the beautiful nature that God gifted us."
 slug = "earth-day-painting"
 image = "img_darsina_1.jpg"

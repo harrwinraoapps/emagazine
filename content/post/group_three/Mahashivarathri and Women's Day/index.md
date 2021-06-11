@@ -1,7 +1,7 @@
 +++
 author = "Jeevesh"
 title = "Mahashivarathri & International Women's Day"
-date = "2021-04-30"
+date = "2021-03-31"
 description = "My e-posters for Mahisivarathri and International Women's Day."
 slug = "mahashivarathri-womens-day"
 image = "img_jeevesh_1.png"

@@ -1,7 +1,7 @@
 +++
 author = "Ramanathan"
 title = "S.S.S"
-date = "2021-04-30"
+date = "2021-03-31"
 description = "What is S.S.S? "
 slug = "sss"
 comments = false

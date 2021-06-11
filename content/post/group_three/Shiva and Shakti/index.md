@@ -1,7 +1,7 @@
 +++
 author = "Mithirasnie"
 title = "Mahashivarathri - Shiva & Shakti"
-date = "2021-04-30"
+date = "2021-03-31"
 description = "The meaning of Shiva and Shakti"
 slug = "shiva-shakti-art"
 image = "img_mithirasnie_1.jpeg"

@@ -1,7 +1,7 @@
 +++
 author = "Dhaanya Nathan"
 title = "Inspirational Women Crossword Puzzle"
-date = "2021-04-30"
+date = "2021-03-31"
 description = "An interesting crossword puzzle on inspirational women around the world from the last century."
 slug = "inspirational-women"
 image = "img_dhaanya_1.jpg"
