@@ -1,7 +1,7 @@
 +++
 author = "Yoshana Tharshini Achuthan"
 title = "Love All Serve All"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "I realised that with Swami's blessings and guidance, this epidemic will be over soon."
 slug = "love-all-serve-all"
 image = "swami.jpg"

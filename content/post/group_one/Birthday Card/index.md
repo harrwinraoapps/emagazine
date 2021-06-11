@@ -1,7 +1,7 @@
 +++
 author = "Manusshri Soori"
 title = "SAI95 Birthday Card"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "Happy Birthday Baba"
 slug = "birthday-card-1"
 image = "img_manusshri_soori.jpeg"

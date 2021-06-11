@@ -1,7 +1,7 @@
 +++
 author = "Himmanika"
 title = "Birthday Wishes for Swami"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "A wish to Baba on His 95th birthday"
 slug = "wish-for-swami"
 comments = false

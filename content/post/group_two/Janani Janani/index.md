@@ -1,7 +1,7 @@
 +++
 author = "Kassni Pratynkira Thiagarajan "
 title = "Janani Janani"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "I specially dedicate this bhajan 'Janani Janani' to my beloved Swami. Happy Birthday Swami"
 slug = "janani-janani"
 comments = false

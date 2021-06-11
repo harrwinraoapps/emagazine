@@ -1,7 +1,7 @@
 +++
 author = "Prashaantkumar Raventeran"
 title = "Love for Swami"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "The joy of singing the name of the Lord."
 slug = "love-for-swami"
 comments = false

@@ -1,7 +1,7 @@
 +++
 author = "Vedashree Thiagarajan"
 title = "Bhajan Dedication - Jai Jai Bhavani Ma"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "I specially dedicate this bhajan 'Jai Jai Bhavani Ma' to my beloved Swami."
 slug = "bhajan-dedication"
 comments = false

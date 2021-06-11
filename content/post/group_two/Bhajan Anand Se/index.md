@@ -1,7 +1,7 @@
 +++
 author = "Vaseegaran Suresh"
 title = "Anand Se Bolo Jai Baba Jai"
-date = "2020-11-22"
+date = "2020-11-23"
 description = "To show my love towards Baba on His birthday and to expand my love through singing a nice bhajan."
 slug = "bhajan-for-swami"
 comments = false
