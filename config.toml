@@ -25,7 +25,7 @@ CanonifyURLs = true
         
     [params.sidebar]
         emoji = "🍥"
-        avatar = "img/avatar3.png"
+        avatar = "img/avatar2.png"
         subtitle = "Welcome to the Official Sathya Sai Baba Center of Bandar Klang e-Magazine"
         
     [params.article]
