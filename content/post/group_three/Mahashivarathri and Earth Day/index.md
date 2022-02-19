@@ -5,7 +5,7 @@ date = "2021-03-31"
 description = "My e-poster for Mahashivarathri and Earth Day"
 slug = "eposter-mahashivarathri"
 comments = false
-draft = true
+draft = false
 tags = [
     "Group 3",
 ]

@@ -5,13 +5,13 @@ date = "2021-08-31"
 description = "Enjoy the explanation on Onam and discover their traditions"
 slug = "onam"
 comments = false
-draft = true
+draft = false
 tags = [
     "Group 2",
 ]
 +++
 
-Enjoy the explanation on Onam and discover their traditions
+Enjoy the explanation on Onam and discover their traditions.
 
 ---
 
